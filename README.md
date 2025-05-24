@@ -1,3 +1,3 @@
 # test-github
-##demo proj for learn about github
+## demo proj for learn about github
 Hello world!
